@@ -1,0 +1,12 @@
+{
+  "name": "lesson-29",
+  "version": "1.0.0",
+  "main": "functions.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
